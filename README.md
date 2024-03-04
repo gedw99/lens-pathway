@@ -30,6 +30,8 @@ https://github.com/LedFx/LedFx
 - Get GIO ( https://github.com/gioui/gio ) and Task ( https://github.com/go-task/task ) and task-UI working with it.
 - Allows Users to work with the system.
 - Allows Speech --> Text to control the GUI --> control the LEDS. 
+- Expose on STAN stream to the local and global network with Security controls.
+
 
 
 
