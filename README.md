@@ -27,8 +27,9 @@ flasher: https://install.wled.me
 
 https://github.com/LedFx/LedFx
 
-- Get GIO ( https://github.com/gioui/gio ) and Task ( https://github.com/go-task/task ) and task-UI working with  it.
-
+- Get GIO ( https://github.com/gioui/gio ) and Task ( https://github.com/go-task/task ) and task-UI working with it.
+- Allows Users to work with the system.
+- Allows Speech --> Text to control the GUI --> control the LEDS. 
 
 
 
